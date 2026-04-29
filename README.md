@@ -67,7 +67,7 @@ CSVファイルを使ってデータの保存・復元が可能な、軽量な�
 
 ### 1. リポジトリをクローン
 ```bash
-git clone https://github.com/your-username/study-tracker.git
+git clone https://github.com/sa2402/mydev-study-tracker.git
 cd study-tracker
 ```
 
